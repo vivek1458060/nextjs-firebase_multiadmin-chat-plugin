@@ -94,7 +94,12 @@ class AdminMapping extends React.Component {
               <tr key={index}>
                 <td>{index + 1}</td>
                 <td>{boothId}</td>
-                <td>{adminId}</td>
+                <td>
+                  <a
+                    href={`${window.location.host}/admin/admin-chat?boothId=${boothId}&adminId=${adminId}`}
+                    target="_blank"
+                  >{`${window.location.host}/admin/admin-chat?boothId=${boothId}&adminId=${adminId}`}</a>
+                </td>
               </tr>
             ))}
           </tbody>
