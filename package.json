@@ -1,0 +1,27 @@
+{
+  "name": "techsupport",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "axios": "^0.19.2",
+    "bootstrap": "^4.5.0",
+    "firebase": "^7.14.6",
+    "formik": "^2.1.4",
+    "googleapis": "^52.0.0",
+    "next": "9.4.0",
+    "next-absolute-url": "^1.2.2",
+    "nodemailer": "^6.4.8",
+    "react": "16.13.1",
+    "react-bootstrap": "^1.0.1",
+    "react-dom": "16.13.1",
+    "react-responsive": "^8.0.3",
+    "styled-components": "^5.1.0",
+    "uuid": "^8.1.0",
+    "yup": "^0.28.5"
+  }
+}
