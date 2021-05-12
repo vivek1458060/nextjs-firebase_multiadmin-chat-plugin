@@ -15,7 +15,7 @@
     "googleapis": "^52.0.0",
     "next": "9.4.0",
     "next-absolute-url": "^1.2.2",
-    "nodemailer": "^6.4.8",
+    "nodemailer": "^6.4.16",
     "react": "16.13.1",
     "react-bootstrap": "^1.0.1",
     "react-dom": "16.13.1",
